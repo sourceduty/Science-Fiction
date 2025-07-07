@@ -8,7 +8,7 @@ Science fiction often serves as a powerful catalyst for real-world scientific ad
 
 #
 
-![Makeshift Boat](https://github.com/user-attachments/assets/2cc2a975-181f-4ae6-bf62-a5c252169457)
+![Makeshift Boat](https://github.com/user-attachments/assets/19507110-ed91-42fd-9f9e-7ed23e044cd0)
 
 Makeshift art arises from resourcefulness and improvisation. It refers to art created using unconventional, often found or repurposed materials, rather than traditional art supplies like canvas, paint, or clay. This form of art draws from the raw aesthetic of survival, self-expression, and ingenuity. Artists working in the makeshift tradition often use objects that would otherwise be discarded—such as scrap metal, wood, or discarded machinery—and transform them into sculptures, installations, or mixed media compositions. Makeshift art tends to be rooted in the idea of repurposing and reimagining, giving new life and meaning to objects through creative reuse. This style can reflect themes of resilience, adaptation, and transformation, often questioning the value of mass-produced goods in a consumer-driven society. While it is not always associated with the science fiction genre directly, makeshift art shares some thematic similarities, particularly when it explores the aesthetic of technological decay or post-apocalyptic environments where people must create art from limited resources. Makeshift art, much like sci-fi, can be used to reflect societal concerns, environmental degradation, and the potential consequences of overconsumption.
 
