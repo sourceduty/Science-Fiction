@@ -18,6 +18,16 @@ Makeshift art arises from resourcefulness and improvisation. It refers to art cr
 
 #
 
+![Seawhale City Dream](https://github.com/user-attachments/assets/58a768d8-488a-427f-9ce5-ce7b722a501b)
+
+[3D Concept](https://chatgpt.com/g/g-JAsawu1Lv-3d-concept) was created to assist users in conceptualizing, designing, and refining 3D models and product visuals. It specializes in guiding users through the process of transforming abstract ideas into detailed 3D model concepts by focusing on elements like textures, structure, lighting, and design aesthetics. Whether for professionals in product design, 3D modeling, or other creative fields, it helps streamline the creative process, offering advice on current design trends, best practices, and technical considerations. The tool is highly interactive and collaborative, encouraging users to engage in the creative journey while offering personalized suggestions and insights at each stage, ensuring their ideas are effectively brought to life with clarity and precision. By providing step-by-step assistance, 3D Concept simplifies complex tasks, helping users achieve polished and refined visual outputs for their projects.
+
+#
+
 [Sci-Fi Agent](https://chatgpt.com/g/g-67721dcbee6481919b844829ad0fe1ea-sci-fi-agent)
 <br>
 [Sci-Fi Program](https://chatgpt.com/g/g-6866ebb706648191b734de7e1e0a1e90-sci-fi-program)
+<br>
+[Art & Desgn](https://github.com/sourceduty/Art_Design)
+<br>
+[GOOG!E Art](https://chatgpt.com/g/g-go6tOJhOh-goog-e-art)
