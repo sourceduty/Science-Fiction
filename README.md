@@ -2,7 +2,6 @@
 
 Science fiction often serves as a powerful catalyst for real-world scientific advancements by sparking the imagination of researchers and engineers. Concepts that once seemed outlandish, like space travel or artificial intelligence, were first explored in novels and films, pushing the boundaries of what was thought possible. As writers envision futuristic technologies and societies, they inspire scientists to turn these speculative ideas into tangible innovations. For example, the communicators from Star Trek predicted modern-day cell phones, and NASA’s research on spacecraft was influenced by ideas from early science fiction. This creative interplay between fiction and reality fuels innovation, demonstrating how imaginative storytelling can ignite groundbreaking discoveries and shape the future of technology.
 
-
 [Sci-Fi Artist](https://chat.openai.com/g/g-BdLFk0LxS-sci-fi-artist) is a custom GPT made to help users create imaginative and futuristic sci-fi concepts through detailed descriptions. It specializes in generating unique science fiction imagery, including advanced technologies, extraterrestrial landscapes, and speculative future societies. By guiding users to craft clear, concise visions that include key elements like setting, characters, and futuristic innovations, the GPT helps generate visually compelling scenes that align with sci-fi themes. It encourages creativity, while also providing a step-by-step process to ensure the generated concepts are cohesive and aligned with the user’s vision.
 
 #
