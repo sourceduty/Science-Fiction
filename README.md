@@ -35,3 +35,5 @@ Makeshift art arises from resourcefulness and improvisation. It refers to art cr
 [GOOG!E Art](https://chatgpt.com/g/g-go6tOJhOh-goog-e-art)
 <br>
 [Alien Killer](https://chatgpt.com/g/g-6853454ad1fc8191b021fb27ef231369-alien-killer)
+<br>
+[Alien Gadget](https://chatgpt.com/g/g-68640c5c574881919c545d0d028cc7dc-alien-gadget)
